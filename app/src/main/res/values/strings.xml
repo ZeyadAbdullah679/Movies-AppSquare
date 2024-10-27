@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">movies</string>
+    <string name="onboarding_image">Onboarding image</string>
+    <string name="onboarding_body">Watch everything you want\n</string>
+    <string name="for_free">for free!</string>
+    <string name="enter_now">Enter now</string>
+    <string name="onboarding">ONBOARDING</string>
+    <string name="search_for_a_content">Search for a content</string>
+    <string name="categories">Categories</string>
+    <string name="most_searched">Most searched.</string>
+    <string name="movie_card">Movie Card</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="internet_connection_lost">Internet Connection Lost</string>
+    <string name="check_network_status">Check Network Connection</string>
+</resources>
